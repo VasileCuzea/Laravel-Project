@@ -1,2 +1,2 @@
 This is a PHP project that uses Laravel framework. The output is shown in browser and displays a list of addresses to the user, populated from a MYSQL database.
-User is able to add a new address to the table, edit the details of a particular address in the table, and delete addresses from the table. There are five stored procedures in the database, which allow the user to read all the addresses, add a new address, edit an existing address and delete an existing address by its address ID.
+There are five stored procedures in the database, which allow the user to read all the addresses, add a new address, edit an existing address and delete an existing address by its address ID.
